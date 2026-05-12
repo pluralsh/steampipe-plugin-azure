@@ -12,4 +12,4 @@ permissions:
 
 jobs:
   golangci_lint_workflow:
-    uses: pluralsh/steampipe-workflows/.github/workflows/golangci-lint.yml@6c27bb77af8105515c92fc6327e8d399a3dcbbb0
+    uses: pluralsh/steampipe-workflows/.github/workflows/golangci-lint.yml@18b498ec69917181b4cf83704f5bc5c56f77eacd
