@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/turbot/steampipe-plugin-azure/azure"
+	"github.com/pluralsh/steampipe-plugin-azure/azure"
 
 	"github.com/turbot/steampipe-plugin-sdk/v5/plugin"
 )
